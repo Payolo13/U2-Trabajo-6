@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  height: 300px;
+  background-color: aqua;
+  flex-wrap: wrap;
+  columns: reverse;
+}
+
+.item{
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  margin: auto;
+}
